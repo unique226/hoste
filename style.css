@@ -74,13 +74,12 @@ input:hover::placeholder{
         height: 100%;
     }
     #h,#main{
-        margin: 50px;
+    line-height: 2px;
 
     }
     #d2,#d4{
+        width: 100%;
         margin: 0;
     }
-    h3{
-        font-size: 17px;
-    }
+    
 }
